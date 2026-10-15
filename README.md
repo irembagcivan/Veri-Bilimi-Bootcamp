@@ -7,7 +7,6 @@ Bu depo, 5 hafta ve 40 saat süren Kapsamlı Veri Bilimi Bootcamp'i boyunca tama
 - [Kullanılan Teknolojiler](#-kullanılan-teknolojiler)
 - [Eğitim Programı (5 Hafta - 40 Saat)](#-eğitim-programı-5-hafta---40-saat)
 - [Projeler & Çalışmalar](#-projeler--çalışmalar)
-- [Kurulum & Çalıştırma](#-kurulum--çalıştırma)
 
 ## 💡 Hakkında
 Veri bilimi dünyasına derinlemesine bir dalış yaptığımız bu bootcamp boyunca, ham veriyi işleyerek anlamlı içgörüler elde etmeyi, çeşitli makine öğrenmesi algoritmalarını eğitmeyi ve bu modelleri değerlendirmeyi öğrendik. Bu repo, teorik bilgilerin pratiğe döküldüğü laboratuvar çalışmalarımın ve projelerimin bir özetidir.
